@@ -29,12 +29,4 @@
         path="packages/apps/XiaomiDolby"
         remote="github"
         revision="lineage-22.2" />
-    <project name="ondrejnedoma/device_xiaomi_peridot-miuicamera"
-        path="device/xiaomi/peridot-miuicamera"
-        remote="github"
-        revision="fifteen" />
-    <project name="ondrejnedoma/vendor_xiaomi_peridot-miuicamera"
-        path="vendor/xiaomi/peridot-miuicamera"
-        remote="github"
-        revision="fifteen" />
 </manifest>
